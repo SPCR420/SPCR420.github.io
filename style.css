@@ -1,5 +1,5 @@
 .mainHeading {
-    border: 5px #006400 medium;
+    border: 5px #006400 solid;
     background-color: #09B369;
     width: 75%;
     margin-left: auto;
@@ -10,4 +10,20 @@
     text-align: center;
     color: #006300;
     font-weight: bold;
+}
+
+.centerImage {
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px #006400 solid;
+}
+
+.centerDiv {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centerText {
+    text-align: center;
+    color: #006300;
 }
