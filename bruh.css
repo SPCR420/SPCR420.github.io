@@ -1,0 +1,13 @@
+.mainHeading {
+    border: 5px #006400 medium;
+    background-color: #09B369;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainHeadingText {
+    text-align: center;
+    color: #006300;
+    font-weight: bold;
+}
