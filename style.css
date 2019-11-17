@@ -13,8 +13,8 @@
 }
 
 .centerImage {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 50%;
+    margin-right: 50%;
     border: 5px #006400 solid;
     width: 700px;
     height: 500px;
