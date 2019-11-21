@@ -7,26 +7,3 @@
     padding-bottom: 5px;
 }
 
-.mainHeadingText {
-    text-align: center;
-    color: #006300;
-    font-weight: bold;
-}
-
-.centerImage {
-    margin-left: auto;
-    margin-right: auto;
-    border: 5px #006400 solid;
-    width: 700px;
-    height: 500px;
-}
-
-.centerDiv {
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.centerText {
-    text-align: center;
-    color: #006300;
-}
