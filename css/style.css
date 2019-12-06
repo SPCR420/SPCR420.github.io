@@ -1,0 +1,80 @@
+@charset "UTF-8";
+/* CSS Document */
+body, p, h4, img {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	background-color: #F8DBA1;
+}
+
+.video {
+	float: left;
+	margin-right: 4px;
+	margin-bottom: 4px;
+	border: thin solid #000000;
+	background-color: white;
+}
+
+div#videoFive {
+	clear: left;
+}
+
+.row {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navBar {
+	height: 100px;
+	border: medium solid #000000;
+	margin-bottom: 5px; 
+	margin-left: 3px;
+	margin-right: 3px;
+	margin-top: 3px;
+}
+
+h4 {
+	margin-bottom: 5px;
+}
+
+.sideBar {
+	border: solid medium #000000;
+	float: left;
+	height: 550px;
+	width: 5%;
+	margin-left: 0.5%;
+	margin-right: 0px;
+	background-color: white;
+}
+
+.videos {
+	float: left;
+	width: 1000px;
+	margin-left: 5px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.sidebarImage {
+	margin-left: auto;
+	margin-right: auto;
+	width: 51px;
+	height: 57px;
+	display: block;
+	padding-top: 5px;
+}
+
+.sidebarText {
+	text-align: center;
+}
+
+p#recommendedText {
+	font-size: 10px;
+}
+
+img#tooYube {
+	padding-left: 10px;
+	padding-top: 10px;
+}
