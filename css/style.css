@@ -11,8 +11,8 @@ body {
 
 .video {
 	float: left;
-	margin-right: 4px;
-	margin-bottom: 4px;
+	margin-right: 6px;
+	margin-bottom: 6px;
 	border: thin solid #000000;
 	background-color: white;
 }
