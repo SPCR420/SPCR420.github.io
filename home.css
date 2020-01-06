@@ -1,3 +1,8 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
 .topnav {
     background-color: #ff0000;
     overflow: hidden;
@@ -7,7 +12,7 @@
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    margin-right: 800px;
     text-decoration: none;
     font-size: 17px;
 }
